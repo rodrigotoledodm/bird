@@ -4,7 +4,7 @@ const scoreboard = {
     colorText:"white",
     width: 320,
     height: 50,
-    name:"IFRJ Bird",
+    name:"Mad Bird",
     draw(){
         eCtx.fillStyle = this.color;
         eCtx.fillRect(0,0,this.width,this.height)

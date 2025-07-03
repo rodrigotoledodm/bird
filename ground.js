@@ -1,5 +1,5 @@
 const ground = {
-    color:"brown",
+    color:"green",
     width: 320,
     height: 90,
     draw(){
