@@ -1,6 +1,6 @@
 
 const scoreboard = {
-    color:"black",
+    color:"blue",
     colorText:"white",
     width: 320,
     height: 50,
